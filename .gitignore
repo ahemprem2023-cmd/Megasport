@@ -1,0 +1,16 @@
+# Node modules
+node_modules/
+
+# Environment variable files
+.env
+
+# Logs
+logs/
+*.log
+
+# Dependency directories
+jspm_packages/
+
+# Other unnecessary files
+.DS_Store
+Thumbs.db
